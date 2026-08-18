@@ -14,7 +14,7 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28268
+            "stars": 28276
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27268
+            "stars": 27269
           }
         }
       ],
@@ -58,7 +58,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314493
+            "stars": 314693
           }
         },
         {
@@ -69,10 +69,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T21:31:35Z",
+            "last_commit": "2026-08-18T21:23:29Z",
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45557
+            "stars": 45565
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29302
+            "stars": 29304
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74042
+            "stars": 74064
           }
         },
         {
@@ -134,7 +134,7 @@
             "last_commit": "2024-07-18T22:41:02Z",
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30063
+            "stars": 30068
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2026-08-13T14:29:39Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23714
+            "stars": 23717
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2023-08-31T17:49:30Z",
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12782
+            "stars": 12783
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14843
+            "stars": 14842
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14843
+            "stars": 14842
           }
         }
       ],
@@ -244,7 +244,7 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29302
+            "stars": 29304
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350
+            "stars": 15351
           }
         }
       ],
@@ -275,10 +275,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-06-01T07:56:13Z",
+            "last_commit": "2026-08-18T07:04:22Z",
             "owner": "alexeygrigorev",
             "repo": "data-science-interviews",
-            "stars": 10113
+            "stars": 10114
           }
         },
         {
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:48:23.532Z",
+    "last_updated": "2026-08-18T21:45:54.862Z",
     "original_repository": "nishitpatel01/Data-Science-and-Machine-Learning-Resources",
     "original_repository_sha": "030015745804128fc8179f1e94b267a8b2167f6e",
     "enhanced_repository": "enhansome/enhansome-Data-Science-and-Machine-Learning-Resources",
