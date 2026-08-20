@@ -15,7 +15,7 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28295
+            "stars": 28402
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314955
+            "stars": 315136
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 204086862,
             "language": "Python",
-            "last_commit": "2026-08-19T21:40:15Z",
+            "last_commit": "2026-08-20T21:39:54Z",
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45574
+            "stars": 45577
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74076
+            "stars": 74089
           }
         },
         {
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 317029148,
             "language": null,
-            "last_commit": "2026-08-13T14:29:39Z",
+            "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23721
+            "stars": 23725
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2023-08-31T17:49:30Z",
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12784
+            "stars": 12785
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2023-09-22T22:11:36Z",
             "owner": "Nyandwi",
             "repo": "machine_learning_complete",
-            "stars": 5035
+            "stars": 5036
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14842
+            "stars": 14840
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14842
+            "stars": 14840
           }
         }
       ],
@@ -264,7 +264,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15352
+            "stars": 15349
           }
         }
       ],
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-18T07:04:22Z",
             "owner": "alexeygrigorev",
             "repo": "data-science-interviews",
-            "stars": 10116
+            "stars": 10117
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:48:50.866Z",
+    "last_updated": "2026-08-20T21:52:19.372Z",
     "original_repository": "nishitpatel01/Data-Science-and-Machine-Learning-Resources",
     "original_repository_id": 121882055,
     "original_repository_sha": "030015745804128fc8179f1e94b267a8b2167f6e",
