@@ -15,7 +15,7 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28563
+            "stars": 28571
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27275
+            "stars": 27279
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-23T08:02:10Z",
+            "last_commit": "2026-08-24T06:42:58Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315684
+            "stars": 315802
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 204086862,
             "language": "Python",
-            "last_commit": "2026-08-23T20:32:44Z",
+            "last_commit": "2026-08-24T14:31:06Z",
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45599
+            "stars": 45602
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29311
+            "stars": 29312
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2023-04-19T08:03:29Z",
             "owner": "rasbt",
             "repo": "python-machine-learning-book-3rd-edition",
-            "stars": 5048
+            "stars": 5050
           }
         }
       ],
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74133
+            "stars": 74142
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2024-07-18T22:41:02Z",
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30075
+            "stars": 30079
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23730
+            "stars": 23731
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2023-08-31T17:49:30Z",
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12790
+            "stars": 12792
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2023-09-22T22:11:36Z",
             "owner": "Nyandwi",
             "repo": "machine_learning_complete",
-            "stars": 5036
+            "stars": 5035
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14842
+            "stars": 14843
           }
         },
         {
@@ -228,11 +228,53 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14842
+            "stars": 14843
           }
         }
       ],
       "title": "Deep Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Approaching any machine learning problem",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277059144,
+            "language": null,
+            "last_commit": "2023-03-25T00:53:39Z",
+            "owner": "abhishekkrthakur",
+            "repo": "approachingalmost",
+            "stars": 8373
+          }
+        }
+      ],
+      "title": "Free Ebooks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Papers with code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147081519,
+            "language": null,
+            "last_commit": "2020-01-16T21:38:24Z",
+            "owner": "zziz",
+            "repo": "pwc",
+            "stars": 15315
+          }
+        }
+      ],
+      "title": "Misc"
     },
     {
       "description": null,
@@ -249,7 +291,7 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29311
+            "stars": 29312
           }
         },
         {
@@ -285,7 +327,7 @@
             "last_commit": "2026-08-18T07:04:22Z",
             "owner": "alexeygrigorev",
             "repo": "data-science-interviews",
-            "stars": 10125
+            "stars": 10127
           }
         },
         {
@@ -300,7 +342,7 @@
             "last_commit": "2024-01-18T06:58:39Z",
             "owner": "kojino",
             "repo": "120-Data-Science-Interview-Questions",
-            "stars": 3848
+            "stars": 3849
           }
         },
         {
@@ -320,10 +362,52 @@
         }
       ],
       "title": "Data Science Interview Prep"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Algorithm & Coding Interviews",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166597723,
+            "language": "TeX",
+            "last_commit": "2024-02-27T18:14:39Z",
+            "owner": "liyin2015",
+            "repo": "python-coding-interview",
+            "stars": 2317
+          }
+        }
+      ],
+      "title": "Data Structure & Algorithms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Git",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41074904,
+            "language": null,
+            "last_commit": "2026-07-07T07:00:27Z",
+            "owner": "dictcp",
+            "repo": "awesome-git",
+            "stars": 2934
+          }
+        }
+      ],
+      "title": "Git"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:43:23.888Z",
+    "last_updated": "2026-08-24T14:47:00.466Z",
     "original_repository": "nishitpatel01/Data-Science-and-Machine-Learning-Resources",
     "original_repository_id": 121882055,
     "original_repository_sha": "030015745804128fc8179f1e94b267a8b2167f6e",
