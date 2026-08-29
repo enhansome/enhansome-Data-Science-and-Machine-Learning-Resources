@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+            "homepage": "https://www.llm-book.com/",
             "id": 821372392,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-24T10:20:08Z",
+            "open_issues": 40,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28722
+            "stars": 28724,
+            "topics": [
+              "artificial-intelligence",
+              "book",
+              "large-language-models",
+              "llm",
+              "llms",
+              "oreilly",
+              "oreilly-books"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome-LLM: a curated list of Large Language Model",
+            "homepage": null,
             "id": 603049672,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
+            "open_issues": 443,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27298
+            "stars": 27297,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -48,12 +66,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+            "homepage": "https://awesome-python.com/",
             "id": 21289110,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:08:40Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316798
+            "stars": 316813,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "python",
+              "python-frameworks",
+              "python-libraries",
+              "python-tools"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -64,12 +94,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streamlit — A faster way to build and share data apps.",
+            "homepage": "https://streamlit.io",
             "id": 204086862,
             "language": "Python",
-            "last_commit": "2026-08-29T02:47:03Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:16:36Z",
+            "open_issues": 1182,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45632
+            "stars": 45632,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "deep-learning",
+              "developer-tools",
+              "machine-learning",
+              "python",
+              "streamlit"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -80,12 +124,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+            "homepage": null,
             "id": 29749635,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-20T13:52:34Z",
+            "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29331
+            "stars": 29331,
+            "topics": [
+              "aws",
+              "big-data",
+              "caffe",
+              "data-science",
+              "deep-learning",
+              "hadoop",
+              "kaggle",
+              "keras",
+              "machine-learning",
+              "mapreduce",
+              "matplotlib",
+              "numpy",
+              "pandas",
+              "python",
+              "scikit-learn",
+              "scipy",
+              "spark",
+              "tensorflow",
+              "theano"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -96,12 +165,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The \"Python Machine Learning (3rd edition)\" book code repository",
+            "homepage": "https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750/",
             "id": 190687137,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-04-19T08:03:29Z",
+            "open_issues": 26,
             "owner": "rasbt",
             "repo": "python-machine-learning-book-3rd-edition",
-            "stars": 5050
+            "stars": 5050,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "scikit-learn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -118,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74202
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -134,12 +218,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+            "homepage": null,
             "id": 277168957,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-07-18T22:41:02Z",
+            "open_issues": 8,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30097
+            "stars": 30097,
+            "topics": [
+              "applied-data-science",
+              "applied-machine-learning",
+              "computer-vision",
+              "data-discovery",
+              "data-engineering",
+              "data-quality",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "natural-language-processing",
+              "production",
+              "recsys",
+              "reinforcement-learning",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -150,12 +254,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+            "homepage": "https://ml-python.best-of.org",
             "id": 317029148,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-27T17:48:15Z",
+            "open_issues": 55,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23733
+            "stars": 23733,
+            "topics": [
+              "automl",
+              "chatgpt",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "data-visualizations",
+              "deep-learning",
+              "gpt",
+              "gpt-3",
+              "jax",
+              "keras",
+              "machine-learning",
+              "ml",
+              "nlp",
+              "python",
+              "pytorch",
+              "scikit-learn",
+              "tensorflow",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -166,12 +295,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.",
+            "homepage": null,
             "id": 286663639,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-31T17:49:30Z",
+            "open_issues": 9,
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12796
+            "stars": 12796,
+            "topics": [
+              "deep-learning",
+              "interivew",
+              "interview-preparation",
+              "interview-questions",
+              "leetcode",
+              "machine-learning",
+              "mvp",
+              "system-design"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -182,12 +325,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.",
+            "homepage": "https://nyandwi.com/machine_learning_complete/",
             "id": 410249461,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-09-22T22:11:36Z",
+            "open_issues": 2,
             "owner": "Nyandwi",
             "repo": "machine_learning_complete",
-            "stars": 5038
+            "stars": 5038,
+            "topics": [
+              "computer-vision",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "datascience",
+              "deep-learning",
+              "keras",
+              "machine-learning",
+              "matplotlib",
+              "neural-networks",
+              "nlp",
+              "numpy",
+              "open-source",
+              "pandas",
+              "python",
+              "scikit-learn",
+              "seaborn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -198,12 +365,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":earth_americas: machine learning tutorials (mainly in Python3) ",
+            "homepage": null,
             "id": 39610055,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-10T18:45:47Z",
+            "open_issues": 6,
             "owner": "ethen8181",
             "repo": "machine-learning",
-            "stars": 3498
+            "stars": 3498,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "jupyter-notebook",
+              "machine-learning",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -220,12 +399,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+            "homepage": null,
             "id": 131881622,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-08-12T14:01:29Z",
+            "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14843
+            "stars": 14843,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "drug-discovery",
+              "forecasting",
+              "large-language-models",
+              "mxnet",
+              "nlp",
+              "paddlepaddle",
+              "pytorch",
+              "recommender-systems",
+              "speech-recognition",
+              "speech-synthesis",
+              "tensorflow",
+              "tensorflow2",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -236,12 +436,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+            "homepage": null,
             "id": 131881622,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-08-12T14:01:29Z",
+            "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14843
+            "stars": 14843,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "drug-discovery",
+              "forecasting",
+              "large-language-models",
+              "mxnet",
+              "nlp",
+              "paddlepaddle",
+              "pytorch",
+              "recommender-systems",
+              "speech-recognition",
+              "speech-synthesis",
+              "tensorflow",
+              "tensorflow2",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -258,12 +479,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Approaching (Almost) Any Machine Learning Problem",
+            "homepage": null,
             "id": 277059144,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-25T00:53:39Z",
+            "open_issues": 54,
             "owner": "abhishekkrthakur",
             "repo": "approachingalmost",
-            "stars": 8374
+            "stars": 8374,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -280,12 +506,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is no longer maintained.",
+            "homepage": null,
             "id": 147081519,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-16T21:38:24Z",
+            "open_issues": 25,
             "owner": "zziz",
             "repo": "pwc",
-            "stars": 15313
+            "stars": 15313,
+            "topics": [
+              "code",
+              "cvpr",
+              "eccv",
+              "iccv",
+              "icml",
+              "machine-learning",
+              "nips",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -302,12 +542,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+            "homepage": null,
             "id": 29749635,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-20T13:52:34Z",
+            "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29331
+            "stars": 29331,
+            "topics": [
+              "aws",
+              "big-data",
+              "caffe",
+              "data-science",
+              "deep-learning",
+              "hadoop",
+              "kaggle",
+              "keras",
+              "machine-learning",
+              "mapreduce",
+              "matplotlib",
+              "numpy",
+              "pandas",
+              "python",
+              "scikit-learn",
+              "scipy",
+              "spark",
+              "tensorflow",
+              "theano"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -318,12 +583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter metapackage for installation and documentation",
+            "homepage": "https://jupyter.readthedocs.io/",
             "id": 36895421,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-09T16:05:40Z",
+            "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350
+            "stars": 15350,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -340,12 +610,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data science interview questions and answers",
+            "homepage": "https://alexeygrigorev.com/data-science-interviews/",
             "id": 244452551,
             "language": "HTML",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-18T07:04:22Z",
+            "open_issues": 7,
             "owner": "alexeygrigorev",
             "repo": "data-science-interviews",
-            "stars": 10132
+            "stars": 10133,
+            "topics": [
+              "data-science",
+              "data-science-interviews",
+              "interview-questions",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -356,12 +636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Answers to 120 commonly asked data science interview questions.",
+            "homepage": null,
             "id": 114063532,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-18T06:58:39Z",
+            "open_issues": 8,
             "owner": "kojino",
             "repo": "120-Data-Science-Interview-Questions",
-            "stars": 3849
+            "stars": 3849,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -372,12 +657,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of all my notes I took while studying for the Facebook Software Developer Interview",
+            "homepage": null,
             "id": 127353360,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-05-31T23:57:27Z",
+            "open_issues": 0,
             "owner": "Christopher-Hsieh",
             "repo": "facebook-interview-prep",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -394,12 +684,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A middle-to-high level open source algorithm book designed with coding interview at heart!",
+            "homepage": null,
             "id": 166597723,
             "language": "TeX",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-27T18:14:39Z",
+            "open_issues": 8,
             "owner": "liyin2015",
             "repo": "python-coding-interview",
-            "stars": 2319
+            "stars": 2319,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "algorithms-and-data-structures",
+              "algorithms-explained",
+              "book-series",
+              "coding-interviews",
+              "computer-science",
+              "data-structures",
+              "dsa",
+              "googlecolab",
+              "interview-preparation",
+              "interview-questions",
+              "leetcode",
+              "leetcode-algorithms",
+              "leetcode-problem-catalog",
+              "python",
+              "tree"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -416,12 +729,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome Git tools, resources and shiny things",
+            "homepage": null,
             "id": 41074904,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-07T07:00:27Z",
+            "open_issues": 70,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2936
+            "stars": 2936,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "git"
+            ]
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -430,15 +753,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:13:32.493Z",
+    "last_updated": "2026-08-29T05:00:20.977Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of Data Science and Machine Learning Resource that I frequently use",
+      "homepage": null,
       "id": 121882055,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-15T18:21:51Z",
+      "open_issues": 1,
       "owner": "nishitpatel01",
       "repo": "Data-Science-and-Machine-Learning-Resources",
-      "stars": 76
+      "stars": 76,
+      "topics": [
+        "algorithms",
+        "awesome",
+        "awesome-list",
+        "blog",
+        "blogs",
+        "collections",
+        "datascience",
+        "datasets",
+        "deep-learning",
+        "ebooks",
+        "links",
+        "machinelearning",
+        "papers",
+        "probability",
+        "python",
+        "r",
+        "resources",
+        "statistics",
+        "visualization"
+      ]
     },
     "original_repository_sha": "030015745804128fc8179f1e94b267a8b2167f6e",
     "enhanced_repository": "enhansome/enhansome-Data-Science-and-Machine-Learning-Resources",
