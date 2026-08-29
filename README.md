@@ -10,13 +10,13 @@ List of Data Science and Machine Learning Resource that I frequently use
 * [Agent Skills](https://drive.google.com/file/d/1Wso-CM4aAvTxFZa5wjBntKM3IVSg7PWW/view)
 * [Agent Security and Evaluation](https://drive.google.com/file/d/1Wso-CM4aAvTxFZa5wjBntKM3IVSg7PWW/view)
 * [Spec Driven Production Grade Development in the Age of Vibe Coding](https://drive.google.com/file/d/1lCx0Lh06sK6j59nTNc_pYRdnoxgDtJcn/view)
-* [Agent Skills - Productin Grade Engineering Workflows & Loop Engineering](https://github.com/addyosmani/agent-skills) ⭐ 90,545 | 🐛 121 | 🌐 JavaScript | 📅 2026-08-28
+* [Agent Skills - Productin Grade Engineering Workflows & Loop Engineering](https://github.com/addyosmani/agent-skills) ⭐ 90,704 | 🐛 124 | 🌐 JavaScript | 📅 2026-08-28
 *
 
 ### Large Language Models (LLMs) & Generative AI
 
-* [Hands on LLM Repo](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main) ⭐ 28,724 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-04-24
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#tutorials-about-llm) ⭐ 27,297 | 🐛 443 | 📅 2025-07-31
+* [Hands on LLM Repo](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main) ⭐ 28,740 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-04-24
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#tutorials-about-llm) ⭐ 27,302 | 🐛 443 | 📅 2025-07-31
 
 #### Basic Resources & Transformers
 
@@ -77,9 +77,9 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Python
 
-* [Awesome Python Github](https://github.com/vinta/awesome-python#readme) ⭐ 316,813 | 🐛 19 | 🌐 Python | 📅 2026-08-25
-* [Streamlit library for ML visuals](https://github.com/streamlit/streamlit/) ⭐ 45,632 | 🐛 1,182 | 🌐 Python | 📅 2026-08-29
-* [Collection of Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,331 | 🐛 48 | 🌐 Python | 📅 2024-03-20
+* [Awesome Python Github](https://github.com/vinta/awesome-python#readme) ⭐ 317,019 | 🐛 18 | 🌐 Python | 📅 2026-08-25
+* [Streamlit library for ML visuals](https://github.com/streamlit/streamlit/) ⭐ 45,636 | 🐛 1,180 | 🌐 Python | 📅 2026-08-29
+* [Collection of Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,334 | 🐛 48 | 🌐 Python | 📅 2024-03-20
 * [Python Machine learning Notebooks](https://github.com/rasbt/python-machine-learning-book-3rd-edition) ⭐ 5,050 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2023-04-19
 * [Learn Python Org](http://www.learnpython.org/en/Hello%2C_World%21)
 * [Python Graph Gallery](https://python-graph-gallery.com/)
@@ -92,10 +92,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Machine Learning
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,202 | 🐛 29 | 🌐 Python | 📅 2026-08-27
-* [Applied ML - Curated list of papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml) ⭐ 30,097 | 🐛 8 | 📅 2024-07-18
-* [Best of Machine Learning - Python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,733 | 🐛 55 | 📅 2026-08-27
-* [Machine Learning Interviews](https://github.com/khangich/machine-learning-interview) ⭐ 12,796 | 🐛 9 | 📅 2023-08-31
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,210 | 🐛 30 | 🌐 Python | 📅 2026-08-27
+* [Applied ML - Curated list of papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml) ⭐ 30,098 | 🐛 8 | 📅 2024-07-18
+* [Best of Machine Learning - Python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,738 | 🐛 55 | 📅 2026-08-27
+* [Machine Learning Interviews](https://github.com/khangich/machine-learning-interview) ⭐ 12,797 | 🐛 9 | 📅 2023-08-31
 * [Machine Learning Complete - Notebooks & demos](https://github.com/Nyandwi/machine_learning_complete) ⭐ 5,038 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-09-22
 * [Machine Learning Notebooks](https://github.com/ethen8181/machine-learning) ⭐ 3,498 | 🐛 6 | 🌐 HTML | 📅 2026-07-10
 * [Google AI Blog](https://ai.googleblog.com/)
@@ -125,7 +125,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 * [MLOps References - Curated list of MLOps resources](https://ml-ops.org/content/references.html)
 * [Industrialization of ML Model](https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184)
-* [Awesome MLOps](https://github.com/visenger/awesome-mlops) ⭐ 14,167 | 🐛 43 | 📅 2024-11-21
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops) ⭐ 14,169 | 🐛 43 | 📅 2024-11-21
 
 ### Statistics & Probability
 
@@ -147,8 +147,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Deep Learning
 
-* [Deep Learning Examples in PyTorch by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch) ⭐ 14,843 | 🐛 321 | 🌐 Jupyter Notebook | 📅 2024-08-12
-* [Deep Learning Examples in TensorFlow by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow) ⭐ 14,843 | 🐛 321 | 🌐 Jupyter Notebook | 📅 2024-08-12
+* [Deep Learning Examples in PyTorch by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch) ⭐ 14,842 | 🐛 321 | 🌐 Jupyter Notebook | 📅 2024-08-12
+* [Deep Learning Examples in TensorFlow by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow) ⭐ 14,842 | 🐛 321 | 🌐 Jupyter Notebook | 📅 2024-08-12
 * [Deep Learning Papers and read](https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html)
 * [Convolutional Neural Network](https://deeplearning4j.org/convolutionalnetwork)
 * [Convolutional Neural Network for Visual Recognition](https://cs231n.github.io/)
@@ -321,7 +321,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Jupyter Notebooks
 
-* [Jupyter Notebooks - DS,ML,TF,AWS,Python](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,331 | 🐛 48 | 🌐 Python | 📅 2024-03-20
+* [Jupyter Notebooks - DS,ML,TF,AWS,Python](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,334 | 🐛 48 | 🌐 Python | 📅 2024-03-20
 * [Jupyter Notebook by Domain](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,350 | 🐛 46 | 🌐 Python | 📅 2026-07-09
 * [Survival Regression with Sci-kit learn](https://nbviewer.jupyter.org/github/sebp/scikit-survival/blob/master/examples/00-introduction.ipynb)
 * [Evaluating Survival Regression](https://nbviewer.jupyter.org/github/sebp/scikit-survival/blob/master/examples/evaluating-survival-models.ipynb)
@@ -367,7 +367,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Git
 
-* [Awesome Git](https://github.com/dictcp/awesome-git) ⭐ 2,936 | 🐛 70 | 📅 2026-07-07
+* [Awesome Git](https://github.com/dictcp/awesome-git) ⭐ 2,936 | 🐛 69 | 📅 2026-07-07
 * [Git Explorer](https://gitexplorer.com/)
 * [Interactive git tutorial for beginners](https://rogerdudler.github.io/git-guide/)
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
