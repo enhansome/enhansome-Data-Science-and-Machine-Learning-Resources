@@ -15,7 +15,7 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28705
+            "stars": 28722
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -31,7 +31,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27293
+            "stars": 27298
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -53,7 +53,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316570
+            "stars": 316798
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -66,10 +66,10 @@
             "archived": false,
             "id": 204086862,
             "language": "Python",
-            "last_commit": "2026-08-28T04:45:13Z",
+            "last_commit": "2026-08-29T02:47:03Z",
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45625
+            "stars": 45632
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -85,7 +85,7 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29327
+            "stars": 29331
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-27T15:29:10Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74188
+            "stars": 74202
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -139,7 +139,7 @@
             "last_commit": "2024-07-18T22:41:02Z",
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30092
+            "stars": 30097
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -155,7 +155,7 @@
             "last_commit": "2026-08-27T17:48:15Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23734
+            "stars": 23733
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -171,7 +171,7 @@
             "last_commit": "2023-08-31T17:49:30Z",
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12794
+            "stars": 12796
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -225,7 +225,7 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14840
+            "stars": 14843
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -241,7 +241,7 @@
             "last_commit": "2024-08-12T14:01:29Z",
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14840
+            "stars": 14843
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -285,7 +285,7 @@
             "last_commit": "2020-01-16T21:38:24Z",
             "owner": "zziz",
             "repo": "pwc",
-            "stars": 15314
+            "stars": 15313
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -307,7 +307,7 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29327
+            "stars": 29331
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         },
@@ -399,7 +399,7 @@
             "last_commit": "2024-02-27T18:14:39Z",
             "owner": "liyin2015",
             "repo": "python-coding-interview",
-            "stars": 2318
+            "stars": 2319
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
         }
@@ -430,7 +430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:31:16.545Z",
+    "last_updated": "2026-08-29T03:13:32.493Z",
     "original_repository_info": {
       "archived": false,
       "id": 121882055,
@@ -438,7 +438,7 @@
       "last_commit": "2026-08-15T18:21:51Z",
       "owner": "nishitpatel01",
       "repo": "Data-Science-and-Machine-Learning-Resources",
-      "stars": 75
+      "stars": 76
     },
     "original_repository_sha": "030015745804128fc8179f1e94b267a8b2167f6e",
     "enhanced_repository": "enhansome/enhansome-Data-Science-and-Machine-Learning-Resources",
