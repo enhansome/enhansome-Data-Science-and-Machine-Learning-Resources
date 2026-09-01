@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28756,
+            "stars": 28781,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -45,10 +45,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 443,
+            "open_issues": 444,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27304,
+            "stars": 27308,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -72,10 +72,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-25T04:08:40Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317196,
+            "stars": 317417,
             "topics": [
               "awesome",
               "awesome-list",
@@ -99,11 +99,11 @@
             "id": 204086862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T22:51:24Z",
+            "last_commit": "2026-08-31T21:40:34Z",
             "open_issues": 1187,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45642,
+            "stars": 45652,
             "topics": [
               "data-analysis",
               "data-science",
@@ -133,7 +133,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29336,
+            "stars": 29337,
             "topics": [
               "aws",
               "big-data",
@@ -206,7 +206,7 @@
             "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74218,
+            "stars": 74227,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -227,7 +227,7 @@
             "open_issues": 8,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30099,
+            "stars": 30103,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -263,7 +263,7 @@
             "open_issues": 55,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23742,
+            "stars": 23757,
             "topics": [
               "automl",
               "chatgpt",
@@ -304,7 +304,7 @@
             "open_issues": 9,
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12802,
+            "stars": 12805,
             "topics": [
               "deep-learning",
               "interivew",
@@ -408,7 +408,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14843,
+            "stars": 14845,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -445,7 +445,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14843,
+            "stars": 14845,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -488,7 +488,7 @@
             "open_issues": 54,
             "owner": "abhishekkrthakur",
             "repo": "approachingalmost",
-            "stars": 8374,
+            "stars": 8375,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -551,7 +551,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29336,
+            "stars": 29337,
             "topics": [
               "aws",
               "big-data",
@@ -738,7 +738,7 @@
             "open_issues": 69,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2937,
+            "stars": 2938,
             "topics": [
               "awesome",
               "awesome-list",
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T23:39:54.392Z",
+    "last_updated": "2026-09-01T00:42:12.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Data Science and Machine Learning Resource that I frequently use",
