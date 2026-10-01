@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29400,
+            "stars": 29412,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -45,7 +45,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 466,
+            "open_issues": 467,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
             "stars": 27437,
@@ -75,7 +75,7 @@
             "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324099,
+            "stars": 324353,
             "topics": [
               "awesome",
               "awesome-list",
@@ -99,11 +99,11 @@
             "id": 204086862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T00:30:49Z",
-            "open_issues": 1176,
+            "last_commit": "2026-09-30T23:57:41Z",
+            "open_issues": 1178,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45856,
+            "stars": 45867,
             "topics": [
               "data-analysis",
               "data-science",
@@ -202,11 +202,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T12:17:28Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-30T16:49:00Z",
+            "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74494,
+            "stars": 74505,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -227,7 +227,7 @@
             "open_issues": 12,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30459,
+            "stars": 30467,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -263,7 +263,7 @@
             "open_issues": 58,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23827,
+            "stars": 23837,
             "topics": [
               "automl",
               "chatgpt",
@@ -304,7 +304,7 @@
             "open_issues": 11,
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12827,
+            "stars": 12828,
             "topics": [
               "deep-learning",
               "interivew",
@@ -408,7 +408,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14856,
+            "stars": 14857,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -445,7 +445,7 @@
             "open_issues": 321,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14856,
+            "stars": 14857,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -515,7 +515,7 @@
             "open_issues": 25,
             "owner": "zziz",
             "repo": "pwc",
-            "stars": 15306,
+            "stars": 15305,
             "topics": [
               "code",
               "cvpr",
@@ -738,7 +738,7 @@
             "open_issues": 89,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2949,
+            "stars": 2950,
             "topics": [
               "awesome",
               "awesome-list",
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:38:05.015Z",
+    "last_updated": "2026-10-01T00:39:40.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Data Science and Machine Learning Resource that I frequently use",
@@ -765,7 +765,7 @@
       "open_issues": 1,
       "owner": "nishitpatel01",
       "repo": "Data-Science-and-Machine-Learning-Resources",
-      "stars": 76,
+      "stars": 77,
       "topics": [
         "algorithms",
         "awesome",

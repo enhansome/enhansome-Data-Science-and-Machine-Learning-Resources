@@ -10,13 +10,13 @@ List of Data Science and Machine Learning Resource that I frequently use
 * [Agent Skills](https://drive.google.com/file/d/1Wso-CM4aAvTxFZa5wjBntKM3IVSg7PWW/view)
 * [Agent Security and Evaluation](https://drive.google.com/file/d/1Wso-CM4aAvTxFZa5wjBntKM3IVSg7PWW/view)
 * [Spec Driven Production Grade Development in the Age of Vibe Coding](https://drive.google.com/file/d/1lCx0Lh06sK6j59nTNc_pYRdnoxgDtJcn/view)
-* [Agent Skills - Productin Grade Engineering Workflows & Loop Engineering](https://github.com/addyosmani/agent-skills) ⭐ 99,935 | 🐛 118 | 🌐 JavaScript | 📅 2026-09-26
+* [Agent Skills - Productin Grade Engineering Workflows & Loop Engineering](https://github.com/addyosmani/agent-skills) ⭐ 100,154 | 🐛 120 | 🌐 JavaScript | 📅 2026-09-26
 *
 
 ### Large Language Models (LLMs) & Generative AI
 
-* [Hands on LLM Repo](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main) ⭐ 29,400 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-04-24
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#tutorials-about-llm) ⭐ 27,437 | 🐛 466 | 📅 2025-07-31
+* [Hands on LLM Repo](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main) ⭐ 29,412 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-04-24
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#tutorials-about-llm) ⭐ 27,437 | 🐛 467 | 📅 2025-07-31
 
 #### Basic Resources & Transformers
 
@@ -77,8 +77,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Python
 
-* [Awesome Python Github](https://github.com/vinta/awesome-python#readme) ⭐ 324,099 | 🐛 20 | 🌐 Python | 📅 2026-09-29
-* [Streamlit library for ML visuals](https://github.com/streamlit/streamlit/) ⭐ 45,856 | 🐛 1,176 | 🌐 Python | 📅 2026-09-30
+* [Awesome Python Github](https://github.com/vinta/awesome-python#readme) ⭐ 324,353 | 🐛 20 | 🌐 Python | 📅 2026-09-29
+* [Streamlit library for ML visuals](https://github.com/streamlit/streamlit/) ⭐ 45,867 | 🐛 1,178 | 🌐 Python | 📅 2026-09-30
 * [Collection of Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,361 | 🐛 48 | 🌐 Python | 📅 2024-03-20
 * [Python Machine learning Notebooks](https://github.com/rasbt/python-machine-learning-book-3rd-edition) ⭐ 5,064 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2023-04-19
 * [Learn Python Org](http://www.learnpython.org/en/Hello%2C_World%21)
@@ -92,10 +92,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Machine Learning
 
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,494 | 🐛 23 | 🌐 Python | 📅 2026-09-22
-* [Applied ML - Curated list of papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml) ⭐ 30,459 | 🐛 12 | 📅 2024-07-18
-* [Best of Machine Learning - Python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,827 | 🐛 58 | 📅 2026-09-24
-* [Machine Learning Interviews](https://github.com/khangich/machine-learning-interview) ⭐ 12,827 | 🐛 11 | 📅 2023-08-31
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,505 | 🐛 22 | 🌐 Python | 📅 2026-09-30
+* [Applied ML - Curated list of papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml) ⭐ 30,467 | 🐛 12 | 📅 2024-07-18
+* [Best of Machine Learning - Python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,837 | 🐛 58 | 📅 2026-09-24
+* [Machine Learning Interviews](https://github.com/khangich/machine-learning-interview) ⭐ 12,828 | 🐛 11 | 📅 2023-08-31
 * [Machine Learning Complete - Notebooks & demos](https://github.com/Nyandwi/machine_learning_complete) ⭐ 5,049 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-09-22
 * [Machine Learning Notebooks](https://github.com/ethen8181/machine-learning) ⭐ 3,500 | 🐛 6 | 🌐 HTML | 📅 2026-07-10
 * [Google AI Blog](https://ai.googleblog.com/)
@@ -147,8 +147,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Deep Learning
 
-* [Deep Learning Examples in PyTorch by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch) ⭐ 14,856 | 🐛 321 | 🌐 Jupyter Notebook | 📅 2024-08-12
-* [Deep Learning Examples in TensorFlow by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow) ⭐ 14,856 | 🐛 321 | 🌐 Jupyter Notebook | 📅 2024-08-12
+* [Deep Learning Examples in PyTorch by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch) ⭐ 14,857 | 🐛 321 | 🌐 Jupyter Notebook | 📅 2024-08-12
+* [Deep Learning Examples in TensorFlow by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow) ⭐ 14,857 | 🐛 321 | 🌐 Jupyter Notebook | 📅 2024-08-12
 * [Deep Learning Papers and read](https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html)
 * [Convolutional Neural Network](https://deeplearning4j.org/convolutionalnetwork)
 * [Convolutional Neural Network for Visual Recognition](https://cs231n.github.io/)
@@ -307,7 +307,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Misc
 
-* [Papers with code](https://github.com/zziz/pwc) ⭐ 15,306 | 🐛 25 | 📅 2020-01-16
+* [Papers with code](https://github.com/zziz/pwc) ⭐ 15,305 | 🐛 25 | 📅 2020-01-16
 * [Machine Learning Cheat Sheet in R](https://i2.wp.com/www.thertrader.com/wp-content/uploads/2018/03/Picture3.jpg)
 * [Which algorithn should one use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/#prettyPhoto)
 * [Browse State of the art](https://paperswithcode.com/sota)
@@ -367,7 +367,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Git
 
-* [Awesome Git](https://github.com/dictcp/awesome-git) ⭐ 2,949 | 🐛 89 | 📅 2026-07-07
+* [Awesome Git](https://github.com/dictcp/awesome-git) ⭐ 2,950 | 🐛 89 | 📅 2026-07-07
 * [Git Explorer](https://gitexplorer.com/)
 * [Interactive git tutorial for beginners](https://rogerdudler.github.io/git-guide/)
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
@@ -375,4 +375,4 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
