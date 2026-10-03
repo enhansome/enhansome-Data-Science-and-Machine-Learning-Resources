@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Hands on LLM Repo",
-          "description": null,
+          "description": "HandsOnLLM/Hands-On-Large-Language-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29425,
+            "stars": 29427,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "Awesome LLM",
-          "description": null,
+          "description": "Hannibal046/Awesome-LLM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -62,7 +62,7 @@
         {
           "node_type": "item",
           "title": "Awesome Python Github",
-          "description": null,
+          "description": "vinta/awesome-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -72,10 +72,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T12:01:28Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324746,
+            "stars": 324779,
             "topics": [
               "awesome",
               "awesome-list",
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "Streamlit library for ML visuals",
-          "description": null,
+          "description": "streamlit/streamlit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -100,10 +100,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T23:29:47Z",
-            "open_issues": 1182,
+            "open_issues": 1185,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45873,
+            "stars": 45880,
             "topics": [
               "data-analysis",
               "data-science",
@@ -120,7 +120,7 @@
         {
           "node_type": "item",
           "title": "Collection of Jupyter Notebooks",
-          "description": null,
+          "description": "donnemartin/data-science-ipython-notebooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "Python Machine learning Notebooks",
-          "description": null,
+          "description": "rasbt/python-machine-learning-book-3rd-edition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -193,7 +193,7 @@
         {
           "node_type": "item",
           "title": "Awesome Machine Learning",
-          "description": null,
+          "description": "josephmisiti/awesome-machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -214,7 +214,7 @@
         {
           "node_type": "item",
           "title": "Applied ML - Curated list of papers, articles, and blogs on data science & machine learning in production",
-          "description": null,
+          "description": "eugeneyan/applied-ml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -250,7 +250,7 @@
         {
           "node_type": "item",
           "title": "Best of Machine Learning - Python",
-          "description": null,
+          "description": "lukasmasuch/best-of-ml-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,7 +291,7 @@
         {
           "node_type": "item",
           "title": "Machine Learning Interviews",
-          "description": null,
+          "description": "khangich/machine-learning-interview",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -321,7 +321,7 @@
         {
           "node_type": "item",
           "title": "Machine Learning Complete - Notebooks & demos",
-          "description": null,
+          "description": "Nyandwi/machine_learning_complete",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -361,7 +361,7 @@
         {
           "node_type": "item",
           "title": "Machine Learning Notebooks",
-          "description": null,
+          "description": "ethen8181/machine-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,7 +395,7 @@
         {
           "node_type": "item",
           "title": "Deep Learning Examples in PyTorch by Nvidia",
-          "description": null,
+          "description": "NVIDIA/DeepLearningExamples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -432,7 +432,7 @@
         {
           "node_type": "item",
           "title": "Deep Learning Examples in TensorFlow by Nvidia",
-          "description": null,
+          "description": "NVIDIA/DeepLearningExamples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -475,7 +475,7 @@
         {
           "node_type": "item",
           "title": "Approaching any machine learning problem",
-          "description": null,
+          "description": "abhishekkrthakur/approachingalmost",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -502,7 +502,7 @@
         {
           "node_type": "item",
           "title": "Papers with code",
-          "description": null,
+          "description": "zziz/pwc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -538,7 +538,7 @@
         {
           "node_type": "item",
           "title": "Jupyter Notebooks - DS,ML,TF,AWS,Python",
-          "description": null,
+          "description": "donnemartin/data-science-ipython-notebooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -579,7 +579,7 @@
         {
           "node_type": "item",
           "title": "Jupyter Notebook by Domain",
-          "description": null,
+          "description": "jupyter/jupyter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -606,7 +606,7 @@
         {
           "node_type": "item",
           "title": "Data Science Interviews by Category",
-          "description": null,
+          "description": "alexeygrigorev/data-science-interviews",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -632,7 +632,7 @@
         {
           "node_type": "item",
           "title": "120 Data Science Interview Questions",
-          "description": null,
+          "description": "kojino/120-Data-Science-Interview-Questions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -653,7 +653,7 @@
         {
           "node_type": "item",
           "title": "Facebook Interview Prep",
-          "description": null,
+          "description": "Christopher-Hsieh/facebook-interview-prep",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -680,7 +680,7 @@
         {
           "node_type": "item",
           "title": "Algorithm & Coding Interviews",
-          "description": null,
+          "description": "liyin2015/python-coding-interview",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -725,7 +725,7 @@
         {
           "node_type": "item",
           "title": "Awesome Git",
-          "description": null,
+          "description": "dictcp/awesome-git",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -753,7 +753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:35:36.599Z",
+    "last_updated": "2026-10-03T04:33:29.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Data Science and Machine Learning Resource that I frequently use",

@@ -10,12 +10,12 @@ List of Data Science and Machine Learning Resource that I frequently use
 * [Agent Skills](https://drive.google.com/file/d/1Wso-CM4aAvTxFZa5wjBntKM3IVSg7PWW/view)
 * [Agent Security and Evaluation](https://drive.google.com/file/d/1Wso-CM4aAvTxFZa5wjBntKM3IVSg7PWW/view)
 * [Spec Driven Production Grade Development in the Age of Vibe Coding](https://drive.google.com/file/d/1lCx0Lh06sK6j59nTNc_pYRdnoxgDtJcn/view)
-* [Agent Skills - Productin Grade Engineering Workflows & Loop Engineering](https://github.com/addyosmani/agent-skills) ⭐ 100,528 | 🐛 120 | 🌐 JavaScript | 📅 2026-10-02
+* [Agent Skills - Productin Grade Engineering Workflows & Loop Engineering](https://github.com/addyosmani/agent-skills) ⭐ 100,578 | 🐛 120 | 🌐 JavaScript | 📅 2026-10-02
 *
 
 ### Large Language Models (LLMs) & Generative AI
 
-* [Hands on LLM Repo](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main) ⭐ 29,425 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-04-24
+* [Hands on LLM Repo](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main) ⭐ 29,427 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-04-24
 * [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#tutorials-about-llm) ⭐ 27,433 | 🐛 470 | 📅 2025-07-31
 
 #### Basic Resources & Transformers
@@ -77,8 +77,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Python
 
-* [Awesome Python Github](https://github.com/vinta/awesome-python#readme) ⭐ 324,746 | 🐛 20 | 🌐 Python | 📅 2026-10-02
-* [Streamlit library for ML visuals](https://github.com/streamlit/streamlit/) ⭐ 45,873 | 🐛 1,182 | 🌐 Python | 📅 2026-10-02
+* [Awesome Python Github](https://github.com/vinta/awesome-python#readme) ⭐ 324,779 | 🐛 21 | 🌐 Python | 📅 2026-10-02
+* [Streamlit library for ML visuals](https://github.com/streamlit/streamlit/) ⭐ 45,880 | 🐛 1,185 | 🌐 Python | 📅 2026-10-02
 * [Collection of Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,359 | 🐛 48 | 🌐 Python | 📅 2024-03-20
 * [Python Machine learning Notebooks](https://github.com/rasbt/python-machine-learning-book-3rd-edition) ⭐ 5,064 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2023-04-19
 * [Learn Python Org](http://www.learnpython.org/en/Hello%2C_World%21)
@@ -125,7 +125,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 * [MLOps References - Curated list of MLOps resources](https://ml-ops.org/content/references.html)
 * [Industrialization of ML Model](https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184)
-* [Awesome MLOps](https://github.com/visenger/awesome-mlops) ⭐ 14,227 | 🐛 47 | 📅 2024-11-21
+* [Awesome MLOps](https://github.com/visenger/awesome-mlops) ⭐ 14,228 | 🐛 47 | 📅 2024-11-21
 
 ### Statistics & Probability
 
