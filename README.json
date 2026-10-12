@@ -5,6 +5,68 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Agent Skills - Productin Grade Engineering Workflows & Loop Engineering",
+          "description": "addyosmani/agent-skills",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Production-grade engineering skills for AI coding agents.",
+            "homepage": "https://skills.addy.ie",
+            "id": 1158722119,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-10T08:28:49Z",
+            "open_issues": 130,
+            "owner": "addyosmani",
+            "repo": "agent-skills",
+            "stars": 105031,
+            "topics": [
+              "agent-skills",
+              "antigravity",
+              "claude-code",
+              "codex",
+              "cursor",
+              "skills"
+            ]
+          },
+          "first_seen": "2026-10-12T00:40:02.615Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Agentic ADLC",
+              "description": "evekhm/agentic-sdlc",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1354026782,
+                "language": "Shell",
+                "license": null,
+                "last_commit": "2026-09-18T22:00:18Z",
+                "open_issues": 104,
+                "owner": "evekhm",
+                "repo": "agentic-sdlc",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-10-12T00:40:02.615Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agentic Development"
+        }
+      ],
+      "title": "Agentic AI & Agents"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Hands on LLM Repo",
           "description": "HandsOnLLM/Hands-On-Large-Language-Models",
           "children": [],
@@ -19,7 +81,7 @@
             "open_issues": 41,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29557,
+            "stars": 29566,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -48,7 +110,7 @@
             "open_issues": 471,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27449,
+            "stars": 27451,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -71,11 +133,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T11:10:01Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-11T17:28:13Z",
+            "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 326394,
+            "stars": 326656,
             "topics": [
               "awesome",
               "awesome-list",
@@ -99,11 +161,11 @@
             "id": 204086862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T11:47:11Z",
-            "open_issues": 1198,
+            "last_commit": "2026-10-11T23:43:56Z",
+            "open_issues": 1199,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45932,
+            "stars": 45948,
             "topics": [
               "data-analysis",
               "data-science",
@@ -133,7 +195,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29359,
+            "stars": 29360,
             "topics": [
               "aws",
               "big-data",
@@ -174,7 +236,7 @@
             "open_issues": 26,
             "owner": "rasbt",
             "repo": "python-machine-learning-book-3rd-edition",
-            "stars": 5067,
+            "stars": 5068,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -206,7 +268,7 @@
             "open_issues": 23,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74566,
+            "stars": 74572,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -227,7 +289,7 @@
             "open_issues": 12,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30520,
+            "stars": 30527,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -263,7 +325,7 @@
             "open_issues": 59,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23845,
+            "stars": 23846,
             "topics": [
               "automl",
               "chatgpt",
@@ -334,7 +396,7 @@
             "open_issues": 2,
             "owner": "Nyandwi",
             "repo": "machine_learning_complete",
-            "stars": 5051,
+            "stars": 5053,
             "topics": [
               "computer-vision",
               "data-analysis",
@@ -408,7 +470,7 @@
             "open_issues": 322,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14861,
+            "stars": 14863,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -445,7 +507,7 @@
             "open_issues": 322,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14861,
+            "stars": 14863,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -488,7 +550,7 @@
             "open_issues": 54,
             "owner": "abhishekkrthakur",
             "repo": "approachingalmost",
-            "stars": 8393,
+            "stars": 8395,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -551,7 +613,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29359,
+            "stars": 29360,
             "topics": [
               "aws",
               "big-data",
@@ -592,7 +654,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15352,
+            "stars": 15350,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -603,6 +665,36 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Machine Learning Interview",
+          "description": "khangich/machine-learning-interview",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.",
+            "homepage": null,
+            "id": 286663639,
+            "language": null,
+            "license": null,
+            "last_commit": "2023-08-31T17:49:30Z",
+            "open_issues": 11,
+            "owner": "khangich",
+            "repo": "machine-learning-interview",
+            "stars": 12836,
+            "topics": [
+              "deep-learning",
+              "interivew",
+              "interview-preparation",
+              "interview-questions",
+              "leetcode",
+              "machine-learning",
+              "mvp",
+              "system-design"
+            ]
+          },
+          "first_seen": "2026-08-28T05:31:16.545Z"
+        },
         {
           "node_type": "item",
           "title": "Data Science Interviews by Category",
@@ -645,7 +737,7 @@
             "open_issues": 8,
             "owner": "kojino",
             "repo": "120-Data-Science-Interview-Questions",
-            "stars": 3853,
+            "stars": 3852,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -673,6 +765,115 @@
         }
       ],
       "title": "Data Science Interview Prep"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "System Design Primer",
+          "description": "donnemartin/system-design-primer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+            "homepage": null,
+            "id": 83222441,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-15T01:10:09Z",
+            "open_issues": 624,
+            "owner": "donnemartin",
+            "repo": "system-design-primer",
+            "stars": 373799,
+            "topics": [
+              "design",
+              "design-patterns",
+              "design-system",
+              "development",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "programming",
+              "python",
+              "system",
+              "web",
+              "web-application",
+              "webapp"
+            ]
+          },
+          "first_seen": "2026-10-12T00:40:02.615Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AI Engineering Interview Questions",
+          "description": "amitshekhariitbhu/ai-engineering-interview-questions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
+            "homepage": "https://outcomeschool.com/program/ai-and-machine-learning",
+            "id": 1187805808,
+            "language": "Markdown",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-11T00:59:31Z",
+            "open_issues": 3,
+            "owner": "amitshekhariitbhu",
+            "repo": "ai-engineering-interview-questions",
+            "stars": 3366,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "ai-engineering",
+              "fine-tuning",
+              "interview",
+              "interview-preparation",
+              "interview-questions",
+              "llm",
+              "llm-inference",
+              "mcp",
+              "quantization",
+              "questions-and-answers",
+              "rag"
+            ]
+          },
+          "first_seen": "2026-10-12T00:40:02.615Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesoem AI Architect",
+          "description": "Alexey-Popov/awesome-ai-architect",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "10x your AI Architect journey: plain‑language, guides that blend AI engineering + solution architecture.",
+            "homepage": null,
+            "id": 1044250095,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-09-29T10:01:36Z",
+            "open_issues": 1,
+            "owner": "Alexey-Popov",
+            "repo": "awesome-ai-architect",
+            "stars": 224,
+            "topics": [
+              "ai",
+              "architecture",
+              "awesome",
+              "awesome-list",
+              "interview-prep",
+              "learning",
+              "llm",
+              "rag",
+              "solution-architect",
+              "solution-architecture"
+            ]
+          },
+          "first_seen": "2026-10-12T00:40:02.615Z"
+        }
+      ],
+      "title": "AI Engineer Interview Prep"
     },
     {
       "description": null,
@@ -738,7 +939,7 @@
             "open_issues": 99,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2951,
+            "stars": 2952,
             "topics": [
               "awesome",
               "awesome-list",
@@ -753,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:17:30.139Z",
+    "last_updated": "2026-10-12T00:40:02.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Data Science and Machine Learning Resource that I frequently use",
@@ -761,7 +962,7 @@
       "id": 121882055,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-15T18:21:51Z",
+      "last_commit": "2026-10-11T18:26:10Z",
       "open_issues": 1,
       "owner": "nishitpatel01",
       "repo": "Data-Science-and-Machine-Learning-Resources",
@@ -788,7 +989,7 @@
         "visualization"
       ]
     },
-    "original_repository_sha": "030015745804128fc8179f1e94b267a8b2167f6e",
+    "original_repository_sha": "f3a8e8d2bad7b3dcb5708d845cce9c6bf4cec8ff",
     "enhanced_repository": "enhansome/enhansome-Data-Science-and-Machine-Learning-Resources",
     "enhanced_repository_description": null,
     "title": "Awesome Data-Science-and-Machine-Learning-Resources with stars"
