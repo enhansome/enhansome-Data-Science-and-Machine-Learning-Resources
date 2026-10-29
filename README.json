@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-13T20:24:07Z",
-            "open_issues": 177,
+            "open_issues": 180,
             "owner": "addyosmani",
             "repo": "agent-skills",
-            "stars": 111136,
+            "stars": 111468,
             "topics": [
               "agent-skills",
               "antigravity",
@@ -81,7 +81,7 @@
             "open_issues": 49,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 29930,
+            "stars": 29937,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -107,10 +107,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 488,
+            "open_issues": 489,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27459,
+            "stars": 27462,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -133,11 +133,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T00:31:39Z",
+            "last_commit": "2026-10-28T01:26:10Z",
             "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 330706,
+            "stars": 330951,
             "topics": [
               "awesome",
               "awesome-list",
@@ -161,11 +161,11 @@
             "id": 204086862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T22:08:23Z",
-            "open_issues": 1192,
+            "last_commit": "2026-10-29T01:05:19Z",
+            "open_issues": 1197,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 46157,
+            "stars": 46171,
             "topics": [
               "data-analysis",
               "data-science",
@@ -236,7 +236,7 @@
             "open_issues": 26,
             "owner": "rasbt",
             "repo": "python-machine-learning-book-3rd-edition",
-            "stars": 5072,
+            "stars": 5073,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -265,10 +265,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-27T19:21:38Z",
-            "open_issues": 28,
+            "open_issues": 30,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74677,
+            "stars": 74687,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -289,7 +289,7 @@
             "open_issues": 12,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30738,
+            "stars": 30741,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -325,7 +325,7 @@
             "open_issues": 58,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23849,
+            "stars": 23847,
             "topics": [
               "automl",
               "chatgpt",
@@ -467,10 +467,10 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2024-08-12T14:01:29Z",
-            "open_issues": 322,
+            "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14870,
+            "stars": 14871,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -504,10 +504,10 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2024-08-12T14:01:29Z",
-            "open_issues": 322,
+            "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14870,
+            "stars": 14871,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -550,7 +550,7 @@
             "open_issues": 54,
             "owner": "abhishekkrthakur",
             "repo": "approachingalmost",
-            "stars": 8404,
+            "stars": 8401,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -654,7 +654,7 @@
             "open_issues": 47,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15353,
+            "stars": 15352,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -785,7 +785,7 @@
             "open_issues": 632,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 375850,
+            "stars": 375960,
             "topics": [
               "design",
               "design-patterns",
@@ -816,11 +816,11 @@
             "id": 1187805808,
             "language": "Markdown",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T11:02:46Z",
+            "last_commit": "2026-10-28T03:39:14Z",
             "open_issues": 2,
             "owner": "amitshekhariitbhu",
             "repo": "ai-engineering-interview-questions",
-            "stars": 3573,
+            "stars": 3584,
             "topics": [
               "agents",
               "ai",
@@ -936,10 +936,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-23T08:16:08Z",
-            "open_issues": 115,
+            "open_issues": 114,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2960,
+            "stars": 2962,
             "topics": [
               "awesome",
               "awesome-list",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:37:09.216Z",
+    "last_updated": "2026-10-29T01:06:35.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Data Science and Machine Learning Resource that I frequently use",
