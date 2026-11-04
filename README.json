@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-01T19:24:49Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "addyosmani",
             "repo": "agent-skills",
-            "stars": 112842,
+            "stars": 113057,
             "topics": [
               "agent-skills",
               "antigravity",
@@ -81,7 +81,7 @@
             "open_issues": 50,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 30021,
+            "stars": 30047,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -110,7 +110,7 @@
             "open_issues": 496,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27473,
+            "stars": 27475,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -137,7 +137,7 @@
             "open_issues": 24,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 332040,
+            "stars": 332279,
             "topics": [
               "awesome",
               "awesome-list",
@@ -161,11 +161,11 @@
             "id": 204086862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T00:49:32Z",
-            "open_issues": 1181,
+            "last_commit": "2026-11-04T01:28:18Z",
+            "open_issues": 1188,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 46220,
+            "stars": 46235,
             "topics": [
               "data-analysis",
               "data-science",
@@ -195,7 +195,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29386,
+            "stars": 29387,
             "topics": [
               "aws",
               "big-data",
@@ -236,7 +236,7 @@
             "open_issues": 26,
             "owner": "rasbt",
             "repo": "python-machine-learning-book-3rd-edition",
-            "stars": 5070,
+            "stars": 5072,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -265,10 +265,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T16:30:10Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74739,
+            "stars": 74744,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -289,7 +289,7 @@
             "open_issues": 12,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30785,
+            "stars": 30787,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -325,7 +325,7 @@
             "open_issues": 58,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23854,
+            "stars": 23855,
             "topics": [
               "automl",
               "chatgpt",
@@ -366,7 +366,7 @@
             "open_issues": 11,
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12851,
+            "stars": 12853,
             "topics": [
               "deep-learning",
               "interivew",
@@ -396,7 +396,7 @@
             "open_issues": 2,
             "owner": "Nyandwi",
             "repo": "machine_learning_complete",
-            "stars": 5052,
+            "stars": 5051,
             "topics": [
               "computer-vision",
               "data-analysis",
@@ -550,7 +550,7 @@
             "open_issues": 54,
             "owner": "abhishekkrthakur",
             "repo": "approachingalmost",
-            "stars": 8403,
+            "stars": 8406,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -577,7 +577,7 @@
             "open_issues": 25,
             "owner": "zziz",
             "repo": "pwc",
-            "stars": 15303,
+            "stars": 15302,
             "topics": [
               "code",
               "cvpr",
@@ -613,7 +613,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29386,
+            "stars": 29387,
             "topics": [
               "aws",
               "big-data",
@@ -654,7 +654,7 @@
             "open_issues": 49,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350,
+            "stars": 15351,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -681,7 +681,7 @@
             "open_issues": 11,
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12851,
+            "stars": 12853,
             "topics": [
               "deep-learning",
               "interivew",
@@ -711,7 +711,7 @@
             "open_issues": 9,
             "owner": "alexeygrigorev",
             "repo": "data-science-interviews",
-            "stars": 10221,
+            "stars": 10222,
             "topics": [
               "data-science",
               "data-science-interviews",
@@ -785,7 +785,7 @@
             "open_issues": 634,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 376580,
+            "stars": 376710,
             "topics": [
               "design",
               "design-patterns",
@@ -816,7 +816,7 @@
             "id": 1187805808,
             "language": "Markdown",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T04:17:37Z",
+            "last_commit": "2026-11-03T06:23:56Z",
             "open_issues": 2,
             "owner": "amitshekhariitbhu",
             "repo": "ai-engineering-interview-questions",
@@ -856,7 +856,7 @@
             "open_issues": 0,
             "owner": "Alexey-Popov",
             "repo": "awesome-ai-architect",
-            "stars": 233,
+            "stars": 235,
             "topics": [
               "ai",
               "architecture",
@@ -936,10 +936,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-23T08:16:08Z",
-            "open_issues": 116,
+            "open_issues": 119,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2969,
+            "stars": 2971,
             "topics": [
               "awesome",
               "awesome-list",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:58:51.699Z",
+    "last_updated": "2026-11-04T01:31:54.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Data Science and Machine Learning Resource that I frequently use",
