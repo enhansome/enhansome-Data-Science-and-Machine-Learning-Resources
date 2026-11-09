@@ -19,7 +19,7 @@
             "open_issues": 132,
             "owner": "addyosmani",
             "repo": "agent-skills",
-            "stars": 113902,
+            "stars": 114135,
             "topics": [
               "agent-skills",
               "antigravity",
@@ -81,7 +81,7 @@
             "open_issues": 50,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 30082,
+            "stars": 30097,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -107,10 +107,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 500,
+            "open_issues": 501,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27484,
+            "stars": 27488,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -133,11 +133,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T17:47:24Z",
+            "last_commit": "2026-11-08T14:42:33Z",
             "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 333238,
+            "stars": 333447,
             "topics": [
               "awesome",
               "awesome-list",
@@ -161,11 +161,11 @@
             "id": 204086862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T15:04:20Z",
-            "open_issues": 1188,
+            "last_commit": "2026-11-09T00:45:46Z",
+            "open_issues": 1194,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 46268,
+            "stars": 46279,
             "topics": [
               "data-analysis",
               "data-science",
@@ -236,7 +236,7 @@
             "open_issues": 26,
             "owner": "rasbt",
             "repo": "python-machine-learning-book-3rd-edition",
-            "stars": 5071,
+            "stars": 5072,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -268,7 +268,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74782,
+            "stars": 74785,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -289,7 +289,7 @@
             "open_issues": 12,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30831,
+            "stars": 30845,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -325,7 +325,7 @@
             "open_issues": 59,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23858,
+            "stars": 23857,
             "topics": [
               "automl",
               "chatgpt",
@@ -366,7 +366,7 @@
             "open_issues": 11,
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12857,
+            "stars": 12858,
             "topics": [
               "deep-learning",
               "interivew",
@@ -436,7 +436,7 @@
             "open_issues": 6,
             "owner": "ethen8181",
             "repo": "machine-learning",
-            "stars": 3500,
+            "stars": 3499,
             "topics": [
               "data-science",
               "deep-learning",
@@ -470,7 +470,7 @@
             "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14869,
+            "stars": 14871,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -507,7 +507,7 @@
             "open_issues": 323,
             "owner": "NVIDIA",
             "repo": "DeepLearningExamples",
-            "stars": 14869,
+            "stars": 14871,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -681,7 +681,7 @@
             "open_issues": 11,
             "owner": "khangich",
             "repo": "machine-learning-interview",
-            "stars": 12857,
+            "stars": 12858,
             "topics": [
               "deep-learning",
               "interivew",
@@ -708,10 +708,10 @@
             "language": "HTML",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-26T02:59:47Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "alexeygrigorev",
             "repo": "data-science-interviews",
-            "stars": 10227,
+            "stars": 10229,
             "topics": [
               "data-science",
               "data-science-interviews",
@@ -782,10 +782,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T01:10:09Z",
-            "open_issues": 641,
+            "open_issues": 643,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 377262,
+            "stars": 377358,
             "topics": [
               "design",
               "design-patterns",
@@ -816,11 +816,11 @@
             "id": 1187805808,
             "language": "Markdown",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T04:44:07Z",
+            "last_commit": "2026-11-08T03:51:25Z",
             "open_issues": 1,
             "owner": "amitshekhariitbhu",
             "repo": "ai-engineering-interview-questions",
-            "stars": 3619,
+            "stars": 3624,
             "topics": [
               "agents",
               "ai",
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:48:59.674Z",
+    "last_updated": "2026-11-09T01:04:04.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Data Science and Machine Learning Resource that I frequently use",
