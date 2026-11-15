@@ -15,11 +15,11 @@
             "id": 1158722119,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T19:24:49Z",
-            "open_issues": 140,
+            "last_commit": "2026-11-14T04:33:56Z",
+            "open_issues": 124,
             "owner": "addyosmani",
             "repo": "agent-skills",
-            "stars": 117159,
+            "stars": 117582,
             "topics": [
               "agent-skills",
               "antigravity",
@@ -81,7 +81,7 @@
             "open_issues": 50,
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 30136,
+            "stars": 30140,
             "topics": [
               "artificial-intelligence",
               "book",
@@ -107,10 +107,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
-            "open_issues": 502,
+            "open_issues": 504,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27498,
+            "stars": 27496,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -133,11 +133,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T05:14:16Z",
+            "last_commit": "2026-11-14T17:06:55Z",
             "open_issues": 23,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 334578,
+            "stars": 334788,
             "topics": [
               "awesome",
               "awesome-list",
@@ -161,11 +161,11 @@
             "id": 204086862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T01:02:37Z",
+            "last_commit": "2026-11-14T11:19:07Z",
             "open_issues": 1187,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 46348,
+            "stars": 46357,
             "topics": [
               "agents",
               "business-intelligence",
@@ -200,7 +200,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29391,
+            "stars": 29392,
             "topics": [
               "aws",
               "big-data",
@@ -241,7 +241,7 @@
             "open_issues": 26,
             "owner": "rasbt",
             "repo": "python-machine-learning-book-3rd-edition",
-            "stars": 5073,
+            "stars": 5072,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -273,7 +273,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74818,
+            "stars": 74829,
             "topics": []
           },
           "first_seen": "2026-08-28T05:31:16.545Z"
@@ -294,7 +294,7 @@
             "open_issues": 12,
             "owner": "eugeneyan",
             "repo": "applied-ml",
-            "stars": 30913,
+            "stars": 30920,
             "topics": [
               "applied-data-science",
               "applied-machine-learning",
@@ -582,7 +582,7 @@
             "open_issues": 25,
             "owner": "zziz",
             "repo": "pwc",
-            "stars": 15302,
+            "stars": 15301,
             "topics": [
               "code",
               "cvpr",
@@ -618,7 +618,7 @@
             "open_issues": 48,
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29391,
+            "stars": 29392,
             "topics": [
               "aws",
               "big-data",
@@ -656,7 +656,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-09T16:05:40Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "jupyter",
             "repo": "jupyter",
             "stars": 15348,
@@ -790,7 +790,7 @@
             "open_issues": 647,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 377803,
+            "stars": 377875,
             "topics": [
               "design",
               "design-patterns",
@@ -822,10 +822,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-25T07:08:30Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "KalyanKS-NLP",
             "repo": "llm-engineer-toolkit",
-            "stars": 11074,
+            "stars": 11077,
             "topics": [
               "ai-engineer",
               "generative-ai",
@@ -852,7 +852,7 @@
             "open_issues": 1,
             "owner": "amitshekhariitbhu",
             "repo": "ai-engineering-interview-questions",
-            "stars": 3651,
+            "stars": 3654,
             "topics": [
               "agents",
               "ai",
@@ -888,7 +888,7 @@
             "open_issues": 0,
             "owner": "Alexey-Popov",
             "repo": "awesome-ai-architect",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "ai",
               "architecture",
@@ -926,7 +926,7 @@
             "open_issues": 32,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 75710,
+            "stars": 75741,
             "topics": [
               "architecture",
               "awesome",
@@ -964,11 +964,11 @@
             "id": 143460965,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T20:20:06Z",
-            "open_issues": 104,
+            "last_commit": "2026-11-14T05:12:36Z",
+            "open_issues": 109,
             "owner": "GoogleCloudPlatform",
             "repo": "microservices-demo",
-            "stars": 21182,
+            "stars": 21189,
             "topics": [
               "gcp",
               "gke",
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:32:06.728Z",
+    "last_updated": "2026-11-15T01:09:30.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Data Science and Machine Learning Resource that I frequently use",
